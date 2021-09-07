@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "All"
+  },
+  {
+    "id": "2",
+    "name": "Smart"
+  },
+  {
+    "id": "3",
+    "name": "Mechanical"
+  },
+  {
+    "id": "4",
+    "name": "Analog"
+  },
+  {
+    "id": "5",
+    "name": "Digital"
+  },
+  {
+    "id": "6",
+    "name": "Dress"
+  }
+]

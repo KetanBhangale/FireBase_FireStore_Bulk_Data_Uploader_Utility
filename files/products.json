@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "cat_id": "1",
+    "name": "Fossil Men's Neutra",
+    "img": "https://firebasestorage.googleapis.com/v0/b/watchstore-9974c.appspot.com/o/watchImages%2Fimg1.jpg?alt=media&token=dba112f4-dad6-45b3-8bae-262ddc641fc1",
+    "price": "129",
+    "offer": "90",
+    "quantity": 10,
+    "isFavorite": false,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text."
+  },
+  {
+    "id": "2",
+    "cat_id": "2",
+    "name": "Fossil Men's Townsman",
+    "img": "https://firebasestorage.googleapis.com/v0/b/watchstore-9974c.appspot.com/o/watchImages%2Fimg2.jpg?alt=media&token=55fd12c8-5125-4cdb-924b-f22e49d7e682",
+    "price": "159",
+    "offer": "100",
+    "quantity": 20,
+    "isFavorite": false,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text."
+  },
+  {
+    "id": "3",
+    "cat_id": "1",
+    "name": "Fossil Men's Copeland",
+    "img": "https://firebasestorage.googleapis.com/v0/b/watchstore-9974c.appspot.com/o/watchImages%2Fimg3.jpg?alt=media&token=fb823764-f7b3-4272-ba18-4abd229de105",
+    "price": "119",
+    "offer": "95",
+    "quantity": 5,
+    "isFavorite": false,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text."
+  },
+  {
+    "id": "4",
+    "cat_id": "2",
+    "name": "Skagen Signatur Three-Hand",
+    "img": "https://firebasestorage.googleapis.com/v0/b/watchstore-9974c.appspot.com/o/watchImages%2Fimg4.jpg?alt=media&token=c3477550-6236-4d94-8182-a0c6b31f643d",
+    "price": "115",
+    "offer": "89",
+    "quantity": 10,
+    "isFavorite": false,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text."
+  },
+  {
+    "id": "5",
+    "cat_id": "1",
+    "name": "Lacoste Men's TR90 Japanese",
+    "img": "https://firebasestorage.googleapis.com/v0/b/watchstore-9974c.appspot.com/o/watchImages%2Fimg5.jpg?alt=media&token=e97c36cd-6b96-4252-9eda-405aebdc6cf0",
+    "price": "95",
+    "offer": "90",
+    "quantity": 10,
+    "isFavorite": false,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text."
+  },
+  {
+    "id": "6",
+    "cat_id": "3",
+    "name": "Diesel Men's MS9 Chronograph",
+    "img": "https://firebasestorage.googleapis.com/v0/b/watchstore-9974c.appspot.com/o/watchImages%2Fimg6.jpg?alt=media&token=07c3503e-962c-4f75-9fa1-953e038f35f1",
+    "price": "224",
+    "offer": "220",
+    "quantity": 10,
+    "isFavorite": false,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text."
+  }
+]
