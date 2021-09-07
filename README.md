@@ -14,29 +14,29 @@ Configuration:
 Steps to create private key:
 1. Go to Project setting.
 <div align="center">
-    <img src="screenshots/1.jpg" width="400px"</img> 
+    <img src="screenshots/1.png" width="400px"</img> 
     <p></p>
      <p></p>
 </div>
 3. Goto Service account.
 <div align="center">
-    <img src="screenshots/2.jpg" width="400px" </img> 
+    <img src="screenshots/2.png" width="400px" </img> 
     <p></p>
      <p></p>
 </div>
-5. Generate a new private key and keep the key at secure location.
+5. Generate a new private key and keep the key at secure location. Add this file at location where your **uploader.js** file is. i.e root folder.
 <div align="center">
-    <img src="screenshots/3.jpg" width="400px" </img>
+    <img src="screenshots/3.png" width="400px" </img>
     <p></p>
      <p></p>
 </div>
 
-
+<br><br>
 Steps to get the Firestore Database Url:
 1. Goto Firebase Database.
 2. You will see your database name. Copy that. Check the red circle marked in screenshot.
 <div align="center">
-    <img src="screenshots/4.jpg" width="400px" </img>
+    <img src="screenshots/4.png" width="400px" </img>
     <p></p>
      <p></p>
 </div>
